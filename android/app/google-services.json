@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "670120419658",
+    "project_id": "my-project-792d6",
+    "storage_bucket": "my-project-792d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670120419658:android:f3dd55a0a8ad23e7c421b3",
+        "android_client_info": {
+          "package_name": "com.newstep.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670120419658-1hnn6tukfa42djvd6hs0naenquo3qosf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newstep.finwallet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "670120419658-f3850p56vajblakd5ltarqskrvuus2jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdRj4pZya7ZLEAfQYAaCShufUrgk4ujv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670120419658-f3850p56vajblakd5ltarqskrvuus2jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670120419658-5th12uqteg6qpcr6ct5115fg0lmbkeg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newstep.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
