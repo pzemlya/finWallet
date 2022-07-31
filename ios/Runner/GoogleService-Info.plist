@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>670120419658-5th12uqteg6qpcr6ct5115fg0lmbkeg1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.670120419658-5th12uqteg6qpcr6ct5115fg0lmbkeg1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>670120419658-1hnn6tukfa42djvd6hs0naenquo3qosf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXmIsja3G_0R7-7hXwlDnveFp5e4GrEfI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>670120419658</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.newstep.finwallet</string>
+	<key>PROJECT_ID</key>
+	<string>my-project-792d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-project-792d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:670120419658:ios:2b912a2cf31031a2c421b3</string>
+</dict>
+</plist>
